@@ -1,0 +1,1900 @@
+{
+ "total": 355,
+ "categories": [
+  {
+   "id": "c01",
+   "name": "Analgesik, Antipiretik & Antiinflamasi",
+   "drugs": [
+    {
+     "id": "d001",
+     "name": "Paracetamol",
+     "indication": "Demam, nyeri ringan-sedang"
+    },
+    {
+     "id": "d002",
+     "name": "Ibuprofen",
+     "indication": "Nyeri, demam, inflamasi"
+    },
+    {
+     "id": "d003",
+     "name": "Aspirin",
+     "indication": "Nyeri, demam, antiplatelet dosis rendah"
+    },
+    {
+     "id": "d004",
+     "name": "Diklofenak",
+     "indication": "Nyeri & inflamasi muskuloskeletal"
+    },
+    {
+     "id": "d005",
+     "name": "Asam mefenamat",
+     "indication": "Nyeri haid, nyeri ringan-sedang"
+    },
+    {
+     "id": "d006",
+     "name": "Ketorolak",
+     "indication": "Nyeri akut sedang-berat jangka pendek"
+    },
+    {
+     "id": "d007",
+     "name": "Meloksikam",
+     "indication": "Osteoartritis, rheumatoid arthritis"
+    },
+    {
+     "id": "d008",
+     "name": "Tramadol",
+     "indication": "Nyeri sedang-berat"
+    },
+    {
+     "id": "d009",
+     "name": "Morfin",
+     "indication": "Nyeri berat (kanker, pascaoperasi)"
+    },
+    {
+     "id": "d010",
+     "name": "Kodein",
+     "indication": "Nyeri ringan-sedang, antitusif"
+    },
+    {
+     "id": "d011",
+     "name": "Celecoxib",
+     "indication": "Nyeri, osteoartritis, rheumatoid arthritis"
+    },
+    {
+     "id": "d012",
+     "name": "Etorikoksib",
+     "indication": "Osteoartritis, gout akut"
+    },
+    {
+     "id": "d013",
+     "name": "Naproksen",
+     "indication": "Nyeri, inflamasi, dismenore"
+    },
+    {
+     "id": "d014",
+     "name": "Indometasin",
+     "indication": "Nyeri, inflamasi, gout"
+    },
+    {
+     "id": "d015",
+     "name": "Piroksikam",
+     "indication": "Osteoartritis, rheumatoid arthritis"
+    },
+    {
+     "id": "d016",
+     "name": "Ketoprofen",
+     "indication": "Nyeri, inflamasi"
+    },
+    {
+     "id": "d017",
+     "name": "Fentanil",
+     "indication": "Nyeri berat, anestesi"
+    },
+    {
+     "id": "d018",
+     "name": "Oksikodon",
+     "indication": "Nyeri sedang-berat"
+    },
+    {
+     "id": "d019",
+     "name": "Hidromorfon",
+     "indication": "Nyeri berat"
+    },
+    {
+     "id": "d020",
+     "name": "Petidin",
+     "indication": "Nyeri akut sedang-berat"
+    },
+    {
+     "id": "d021",
+     "name": "Buprenorfin",
+     "indication": "Nyeri berat, terapi adiksi opioid"
+    },
+    {
+     "id": "d022",
+     "name": "Nalokson",
+     "indication": "Antidot overdosis opioid"
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "name": "Antibiotik",
+   "drugs": [
+    {
+     "id": "d023",
+     "name": "Amoksisilin",
+     "indication": "Infeksi bakteri (napas, telinga, kemih, gigi)"
+    },
+    {
+     "id": "d024",
+     "name": "Ampisilin",
+     "indication": "Infeksi bakteri spektrum luas"
+    },
+    {
+     "id": "d025",
+     "name": "Sefadroksil",
+     "indication": "Infeksi kulit & saluran napas"
+    },
+    {
+     "id": "d026",
+     "name": "Sefiksim",
+     "indication": "Infeksi napas, gonore, tifoid"
+    },
+    {
+     "id": "d027",
+     "name": "Azitromisin",
+     "indication": "Infeksi napas, infeksi menular seksual"
+    },
+    {
+     "id": "d028",
+     "name": "Eritromisin",
+     "indication": "Infeksi pada pasien alergi penisilin"
+    },
+    {
+     "id": "d029",
+     "name": "Doksisiklin",
+     "indication": "Jerawat, infeksi napas, profilaksis malaria"
+    },
+    {
+     "id": "d030",
+     "name": "Siprofloksasin",
+     "indication": "Infeksi saluran kemih, diare bakteri"
+    },
+    {
+     "id": "d031",
+     "name": "Levofloksasin",
+     "indication": "Pneumonia, infeksi saluran kemih"
+    },
+    {
+     "id": "d032",
+     "name": "Metronidazol",
+     "indication": "Infeksi anaerob, amebiasis, giardiasis"
+    },
+    {
+     "id": "d033",
+     "name": "Kotrimoksazol",
+     "indication": "Infeksi saluran kemih, PCP"
+    },
+    {
+     "id": "d034",
+     "name": "Kloramfenikol",
+     "indication": "Demam tifoid (cadangan), infeksi mata"
+    },
+    {
+     "id": "d035",
+     "name": "Benzatin penisilin G",
+     "indication": "Sifilis, profilaksis demam rematik"
+    },
+    {
+     "id": "d036",
+     "name": "Penisilin V",
+     "indication": "Infeksi streptokokus ringan"
+    },
+    {
+     "id": "d037",
+     "name": "Kloksasilin",
+     "indication": "Infeksi stafilokokus"
+    },
+    {
+     "id": "d038",
+     "name": "Ko-amoksiklav",
+     "indication": "Infeksi bakteri resisten beta-laktamase"
+    },
+    {
+     "id": "d039",
+     "name": "Sefaleksin",
+     "indication": "Infeksi kulit, saluran kemih"
+    },
+    {
+     "id": "d040",
+     "name": "Sefuroksim",
+     "indication": "Infeksi napas, kulit, kemih"
+    },
+    {
+     "id": "d041",
+     "name": "Seftriakson",
+     "indication": "Infeksi berat, meningitis, gonore"
+    },
+    {
+     "id": "d042",
+     "name": "Sefotaksim",
+     "indication": "Infeksi berat, meningitis"
+    },
+    {
+     "id": "d043",
+     "name": "Meropenem",
+     "indication": "Infeksi berat multi-resisten"
+    },
+    {
+     "id": "d044",
+     "name": "Imipenem-silastatin",
+     "indication": "Infeksi berat"
+    },
+    {
+     "id": "d045",
+     "name": "Vankomisin",
+     "indication": "MRSA, infeksi gram-positif berat"
+    },
+    {
+     "id": "d046",
+     "name": "Gentamisin",
+     "indication": "Infeksi gram-negatif berat"
+    },
+    {
+     "id": "d047",
+     "name": "Amikasin",
+     "indication": "Infeksi gram-negatif resisten"
+    },
+    {
+     "id": "d048",
+     "name": "Klaritromisin",
+     "indication": "Infeksi napas, H. pylori"
+    },
+    {
+     "id": "d049",
+     "name": "Klindamisin",
+     "indication": "Infeksi anaerob, jerawat"
+    },
+    {
+     "id": "d050",
+     "name": "Tetrasiklin",
+     "indication": "Jerawat, infeksi bakteri"
+    },
+    {
+     "id": "d051",
+     "name": "Tigesiklin",
+     "indication": "Infeksi intra-abdomen, kulit"
+    },
+    {
+     "id": "d052",
+     "name": "Linezolid",
+     "indication": "MRSA, VRE"
+    },
+    {
+     "id": "d053",
+     "name": "Nitrofurantoin",
+     "indication": "ISK tanpa komplikasi"
+    },
+    {
+     "id": "d054",
+     "name": "Fosfomisin",
+     "indication": "ISK tanpa komplikasi"
+    },
+    {
+     "id": "d055",
+     "name": "Sefepim",
+     "indication": "Infeksi berat"
+    },
+    {
+     "id": "d056",
+     "name": "Ertapenem",
+     "indication": "Infeksi intra-abdomen"
+    },
+    {
+     "id": "d057",
+     "name": "Aztreonam",
+     "indication": "Infeksi gram-negatif"
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "name": "Antijamur, Antivirus & Antiparasit",
+   "drugs": [
+    {
+     "id": "d058",
+     "name": "Ketokonazol",
+     "indication": "Infeksi jamur kulit"
+    },
+    {
+     "id": "d059",
+     "name": "Flukonazol",
+     "indication": "Kandidiasis sistemik & vaginal"
+    },
+    {
+     "id": "d060",
+     "name": "Mikonazol",
+     "indication": "Jamur kulit & kandidiasis"
+    },
+    {
+     "id": "d061",
+     "name": "Asiklovir",
+     "indication": "Herpes simpleks, herpes zoster"
+    },
+    {
+     "id": "d062",
+     "name": "Oseltamivir",
+     "indication": "Influenza"
+    },
+    {
+     "id": "d063",
+     "name": "Albendazol",
+     "indication": "Cacingan"
+    },
+    {
+     "id": "d064",
+     "name": "Mebendazol",
+     "indication": "Cacingan"
+    },
+    {
+     "id": "d065",
+     "name": "Klorokuin",
+     "indication": "Malaria"
+    },
+    {
+     "id": "d066",
+     "name": "Terbinafin",
+     "indication": "Jamur kuku & kulit"
+    },
+    {
+     "id": "d067",
+     "name": "Griseofulvin",
+     "indication": "Tinea kulit, rambut, kuku"
+    },
+    {
+     "id": "d068",
+     "name": "Nistatin",
+     "indication": "Kandidiasis oral & kulit"
+    },
+    {
+     "id": "d069",
+     "name": "Itrakonazol",
+     "indication": "Infeksi jamur sistemik, onikomikosis"
+    },
+    {
+     "id": "d070",
+     "name": "Vorikonazol",
+     "indication": "Aspergillosis invasif"
+    },
+    {
+     "id": "d071",
+     "name": "Amfoterisin B",
+     "indication": "Infeksi jamur sistemik berat"
+    },
+    {
+     "id": "d072",
+     "name": "Valasiklovir",
+     "indication": "Herpes zoster, herpes simpleks"
+    },
+    {
+     "id": "d073",
+     "name": "Gansiklovir",
+     "indication": "Infeksi CMV"
+    },
+    {
+     "id": "d074",
+     "name": "Tenofovir",
+     "indication": "Hepatitis B, HIV"
+    },
+    {
+     "id": "d075",
+     "name": "Entekavir",
+     "indication": "Hepatitis B"
+    },
+    {
+     "id": "d076",
+     "name": "Sofosbuvir",
+     "indication": "Hepatitis C"
+    },
+    {
+     "id": "d077",
+     "name": "Ivermektin",
+     "indication": "Strongiloidiasis, skabies"
+    },
+    {
+     "id": "d078",
+     "name": "Prazikuantel",
+     "indication": "Schistosomiasis, cacing pita"
+    },
+    {
+     "id": "d079",
+     "name": "Pirantel pamoat",
+     "indication": "Cacing kremi & gelang"
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "name": "Kardiovaskular & Antihipertensi",
+   "drugs": [
+    {
+     "id": "d080",
+     "name": "Amlodipin",
+     "indication": "Hipertensi, angina"
+    },
+    {
+     "id": "d081",
+     "name": "Nifedipin",
+     "indication": "Hipertensi, angina"
+    },
+    {
+     "id": "d082",
+     "name": "Kaptopril",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d083",
+     "name": "Lisinopril",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d084",
+     "name": "Losartan",
+     "indication": "Hipertensi, nefropati diabetik"
+    },
+    {
+     "id": "d085",
+     "name": "Valsartan",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d086",
+     "name": "Bisoprolol",
+     "indication": "Hipertensi, gagal jantung, angina"
+    },
+    {
+     "id": "d087",
+     "name": "Propranolol",
+     "indication": "Hipertensi, tremor, profilaksis migrain"
+    },
+    {
+     "id": "d088",
+     "name": "Furosemid",
+     "indication": "Edema, hipertensi, gagal jantung"
+    },
+    {
+     "id": "d089",
+     "name": "Hidroklorotiazid",
+     "indication": "Hipertensi, edema"
+    },
+    {
+     "id": "d090",
+     "name": "Spironolakton",
+     "indication": "Gagal jantung, hipertensi, edema"
+    },
+    {
+     "id": "d091",
+     "name": "Simvastatin",
+     "indication": "Hiperkolesterolemia"
+    },
+    {
+     "id": "d092",
+     "name": "Diltiazem",
+     "indication": "Hipertensi, angina, aritmia"
+    },
+    {
+     "id": "d093",
+     "name": "Verapamil",
+     "indication": "Hipertensi, angina, aritmia"
+    },
+    {
+     "id": "d094",
+     "name": "Hidralazin",
+     "indication": "Hipertensi berat, gagal jantung"
+    },
+    {
+     "id": "d095",
+     "name": "Metoprolol",
+     "indication": "Hipertensi, angina, gagal jantung"
+    },
+    {
+     "id": "d096",
+     "name": "Atenolol",
+     "indication": "Hipertensi, angina"
+    },
+    {
+     "id": "d097",
+     "name": "Karvedilol",
+     "indication": "Gagal jantung, hipertensi"
+    },
+    {
+     "id": "d098",
+     "name": "Ramipril",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d099",
+     "name": "Enalapril",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d100",
+     "name": "Kandesartan",
+     "indication": "Hipertensi, gagal jantung"
+    },
+    {
+     "id": "d101",
+     "name": "Irbesartan",
+     "indication": "Hipertensi, nefropati diabetik"
+    },
+    {
+     "id": "d102",
+     "name": "Indapamid",
+     "indication": "Hipertensi"
+    },
+    {
+     "id": "d103",
+     "name": "Klortalidon",
+     "indication": "Hipertensi, edema"
+    },
+    {
+     "id": "d104",
+     "name": "Atorvastatin",
+     "indication": "Hiperkolesterolemia"
+    },
+    {
+     "id": "d105",
+     "name": "Rosuvastatin",
+     "indication": "Hiperkolesterolemia"
+    },
+    {
+     "id": "d106",
+     "name": "Fenofibrat",
+     "indication": "Hipertrigliseridemia"
+    },
+    {
+     "id": "d107",
+     "name": "Gemfibrozil",
+     "indication": "Hipertrigliseridemia"
+    },
+    {
+     "id": "d108",
+     "name": "Klopidogrel",
+     "indication": "Pencegahan trombosis, pasca-stent"
+    },
+    {
+     "id": "d109",
+     "name": "Warfarin",
+     "indication": "Antikoagulan, pencegahan tromboemboli"
+    },
+    {
+     "id": "d110",
+     "name": "Heparin",
+     "indication": "Antikoagulan, trombosis akut"
+    },
+    {
+     "id": "d111",
+     "name": "Enoxaparin",
+     "indication": "Profilaksis & terapi tromboemboli"
+    },
+    {
+     "id": "d112",
+     "name": "Rivaroksaban",
+     "indication": "Pencegahan stroke pada AF, DVT/PE"
+    },
+    {
+     "id": "d113",
+     "name": "Apiksaban",
+     "indication": "Pencegahan stroke pada AF, DVT/PE"
+    },
+    {
+     "id": "d114",
+     "name": "Digoksin",
+     "indication": "Gagal jantung, fibrilasi atrium"
+    },
+    {
+     "id": "d115",
+     "name": "Amiodaron",
+     "indication": "Aritmia"
+    },
+    {
+     "id": "d116",
+     "name": "Isosorbid dinitrat",
+     "indication": "Angina"
+    },
+    {
+     "id": "d117",
+     "name": "Gliseril trinitrat",
+     "indication": "Angina akut"
+    },
+    {
+     "id": "d118",
+     "name": "Dobutamin",
+     "indication": "Syok kardiogenik, gagal jantung akut"
+    },
+    {
+     "id": "d119",
+     "name": "Dopamin",
+     "indication": "Syok, hipotensi berat"
+    },
+    {
+     "id": "d120",
+     "name": "Adrenalin",
+     "indication": "Anafilaksis, henti jantung"
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "name": "Antidiabetik & Hormon",
+   "drugs": [
+    {
+     "id": "d121",
+     "name": "Metformin",
+     "indication": "Diabetes melitus tipe 2"
+    },
+    {
+     "id": "d122",
+     "name": "Glibenklamid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d123",
+     "name": "Glimepirid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d124",
+     "name": "Insulin",
+     "indication": "Diabetes tipe 1 & tipe 2"
+    },
+    {
+     "id": "d125",
+     "name": "Levotiroksin",
+     "indication": "Hipotiroidisme"
+    },
+    {
+     "id": "d126",
+     "name": "Metilprednisolon",
+     "indication": "Inflamasi, alergi, autoimun"
+    },
+    {
+     "id": "d127",
+     "name": "Deksametason",
+     "indication": "Inflamasi berat, alergi, edema serebral"
+    },
+    {
+     "id": "d128",
+     "name": "Prednison",
+     "indication": "Inflamasi, autoimun, alergi"
+    },
+    {
+     "id": "d129",
+     "name": "Gliklazid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d130",
+     "name": "Glipizid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d131",
+     "name": "Pioglitazon",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d132",
+     "name": "Akarbosa",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d133",
+     "name": "Sitagliptin",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d134",
+     "name": "Empagliflozin",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d135",
+     "name": "Dapagliflozin",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d136",
+     "name": "Liraglutid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d137",
+     "name": "Semaglutid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d138",
+     "name": "Repaglinid",
+     "indication": "Diabetes tipe 2"
+    },
+    {
+     "id": "d139",
+     "name": "Insulin aspart",
+     "indication": "Diabetes"
+    },
+    {
+     "id": "d140",
+     "name": "Insulin glargin",
+     "indication": "Diabetes"
+    },
+    {
+     "id": "d141",
+     "name": "Tiamazol",
+     "indication": "Hipertiroid"
+    },
+    {
+     "id": "d142",
+     "name": "Propiltiourasil",
+     "indication": "Hipertiroid"
+    },
+    {
+     "id": "d143",
+     "name": "Hidrokortison",
+     "indication": "Insufisiensi adrenal, inflamasi"
+    },
+    {
+     "id": "d144",
+     "name": "Fludrokortison",
+     "indication": "Insufisiensi adrenal"
+    },
+    {
+     "id": "d145",
+     "name": "Oksitosin",
+     "indication": "Induksi persalinan"
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "name": "Saluran Cerna",
+   "drugs": [
+    {
+     "id": "d146",
+     "name": "Omeprazol",
+     "indication": "Tukak lambung, GERD"
+    },
+    {
+     "id": "d147",
+     "name": "Lansoprazol",
+     "indication": "Tukak lambung, GERD"
+    },
+    {
+     "id": "d148",
+     "name": "Famotidin",
+     "indication": "Tukak lambung, GERD"
+    },
+    {
+     "id": "d149",
+     "name": "Antasida",
+     "indication": "Dispepsia, heartburn"
+    },
+    {
+     "id": "d150",
+     "name": "Domperidon",
+     "indication": "Mual, muntah, dispepsia"
+    },
+    {
+     "id": "d151",
+     "name": "Ondansetron",
+     "indication": "Mual muntah pasca-kemoterapi/operasi"
+    },
+    {
+     "id": "d152",
+     "name": "Loperamid",
+     "indication": "Diare akut"
+    },
+    {
+     "id": "d153",
+     "name": "Oralit",
+     "indication": "Dehidrasi akibat diare"
+    },
+    {
+     "id": "d154",
+     "name": "Bisakodil",
+     "indication": "Konstipasi"
+    },
+    {
+     "id": "d155",
+     "name": "Laktulosa",
+     "indication": "Konstipasi, ensefalopati hepatik"
+    },
+    {
+     "id": "d156",
+     "name": "Pantoprazol",
+     "indication": "Tukak lambung, GERD"
+    },
+    {
+     "id": "d157",
+     "name": "Esomeprazol",
+     "indication": "Tukak lambung, GERD"
+    },
+    {
+     "id": "d158",
+     "name": "Sukralfat",
+     "indication": "Tukak lambung"
+    },
+    {
+     "id": "d159",
+     "name": "Misoprostol",
+     "indication": "Tukak lambung, induksi persalinan"
+    },
+    {
+     "id": "d160",
+     "name": "Simetikon",
+     "indication": "Kembung"
+    },
+    {
+     "id": "d161",
+     "name": "Mebeverin",
+     "indication": "IBS"
+    },
+    {
+     "id": "d162",
+     "name": "Hiosin butilbromida",
+     "indication": "Spasme saluran cerna"
+    },
+    {
+     "id": "d163",
+     "name": "Senosida",
+     "indication": "Konstipasi"
+    },
+    {
+     "id": "d164",
+     "name": "Psyllium",
+     "indication": "Konstipasi"
+    },
+    {
+     "id": "d165",
+     "name": "Metoklopramid",
+     "indication": "Mual, gastroparesis"
+    },
+    {
+     "id": "d166",
+     "name": "Granisetron",
+     "indication": "Mual muntah kemoterapi"
+    },
+    {
+     "id": "d167",
+     "name": "Dimenhidrinat",
+     "indication": "Mabuk perjalanan"
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "name": "Antihistamin & Pernapasan",
+   "drugs": [
+    {
+     "id": "d168",
+     "name": "Cetirizin",
+     "indication": "Rinitis alergi, urtikaria"
+    },
+    {
+     "id": "d169",
+     "name": "Loratadin",
+     "indication": "Rinitis alergi, urtikaria"
+    },
+    {
+     "id": "d170",
+     "name": "Difenhidramin",
+     "indication": "Alergi, mabuk perjalanan, insomnia jangka pendek"
+    },
+    {
+     "id": "d171",
+     "name": "Klorfeniramin (CTM)",
+     "indication": "Alergi, gejala flu"
+    },
+    {
+     "id": "d172",
+     "name": "Salbutamol",
+     "indication": "Asma, bronkospasme"
+    },
+    {
+     "id": "d173",
+     "name": "Budesonid",
+     "indication": "Asma, rinitis alergi"
+    },
+    {
+     "id": "d174",
+     "name": "Ambroksol",
+     "indication": "Mukolitik, batuk berdahak"
+    },
+    {
+     "id": "d175",
+     "name": "Asetilsistein",
+     "indication": "Mukolitik, antidot overdosis paracetamol"
+    },
+    {
+     "id": "d176",
+     "name": "Dekstrometorfan",
+     "indication": "Antitusif, batuk kering"
+    },
+    {
+     "id": "d177",
+     "name": "Teofilin",
+     "indication": "Asma, PPOK"
+    },
+    {
+     "id": "d178",
+     "name": "Desloratadin",
+     "indication": "Rinitis alergi, urtikaria"
+    },
+    {
+     "id": "d179",
+     "name": "Feksofenadin",
+     "indication": "Rinitis alergi, urtikaria"
+    },
+    {
+     "id": "d180",
+     "name": "Prometazin",
+     "indication": "Alergi, mual, sedasi"
+    },
+    {
+     "id": "d181",
+     "name": "Flutikason",
+     "indication": "Asma, rinitis alergi"
+    },
+    {
+     "id": "d182",
+     "name": "Beklometason",
+     "indication": "Asma"
+    },
+    {
+     "id": "d183",
+     "name": "Formoterol",
+     "indication": "Asma, PPOK"
+    },
+    {
+     "id": "d184",
+     "name": "Tiotropium",
+     "indication": "PPOK"
+    },
+    {
+     "id": "d185",
+     "name": "Ipratropium",
+     "indication": "PPOK, asma"
+    },
+    {
+     "id": "d186",
+     "name": "Bromheksin",
+     "indication": "Mukolitik"
+    },
+    {
+     "id": "d187",
+     "name": "Guaifenesin",
+     "indication": "Ekspektoran"
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "name": "Neurologi & Psikiatri",
+   "drugs": [
+    {
+     "id": "d188",
+     "name": "Diazepam",
+     "indication": "Kecemasan, kejang, spasme otot"
+    },
+    {
+     "id": "d189",
+     "name": "Alprazolam",
+     "indication": "Gangguan cemas, gangguan panik"
+    },
+    {
+     "id": "d190",
+     "name": "Amitriptilin",
+     "indication": "Depresi, nyeri neuropatik"
+    },
+    {
+     "id": "d191",
+     "name": "Fluoksetin",
+     "indication": "Depresi, OCD"
+    },
+    {
+     "id": "d192",
+     "name": "Sertralin",
+     "indication": "Depresi, gangguan cemas"
+    },
+    {
+     "id": "d193",
+     "name": "Haloperidol",
+     "indication": "Skizofrenia, agitasi"
+    },
+    {
+     "id": "d194",
+     "name": "Risperidon",
+     "indication": "Skizofrenia, gangguan bipolar"
+    },
+    {
+     "id": "d195",
+     "name": "Karbamazepin",
+     "indication": "Epilepsi, neuralgia trigeminal"
+    },
+    {
+     "id": "d196",
+     "name": "Asam valproat",
+     "indication": "Epilepsi, gangguan bipolar"
+    },
+    {
+     "id": "d197",
+     "name": "Fenitoin",
+     "indication": "Epilepsi"
+    },
+    {
+     "id": "d198",
+     "name": "Klonazepam",
+     "indication": "Epilepsi, gangguan panik"
+    },
+    {
+     "id": "d199",
+     "name": "Lorazepam",
+     "indication": "Cemas, status epileptikus"
+    },
+    {
+     "id": "d200",
+     "name": "Midazolam",
+     "indication": "Sedasi, kejang"
+    },
+    {
+     "id": "d201",
+     "name": "Zolpidem",
+     "indication": "Insomnia"
+    },
+    {
+     "id": "d202",
+     "name": "Buspiron",
+     "indication": "Gangguan cemas"
+    },
+    {
+     "id": "d203",
+     "name": "Paroksetin",
+     "indication": "Depresi, gangguan cemas"
+    },
+    {
+     "id": "d204",
+     "name": "Venlafaksin",
+     "indication": "Depresi, gangguan cemas"
+    },
+    {
+     "id": "d205",
+     "name": "Mirtazapin",
+     "indication": "Depresi"
+    },
+    {
+     "id": "d206",
+     "name": "Eskitalopram",
+     "indication": "Depresi, gangguan cemas"
+    },
+    {
+     "id": "d207",
+     "name": "Litium",
+     "indication": "Gangguan bipolar"
+    },
+    {
+     "id": "d208",
+     "name": "Olanzapin",
+     "indication": "Skizofrenia, bipolar"
+    },
+    {
+     "id": "d209",
+     "name": "Ketiapin",
+     "indication": "Skizofrenia, bipolar"
+    },
+    {
+     "id": "d210",
+     "name": "Aripiprazol",
+     "indication": "Skizofrenia, bipolar"
+    },
+    {
+     "id": "d211",
+     "name": "Gabapentin",
+     "indication": "Nyeri neuropatik, epilepsi"
+    },
+    {
+     "id": "d212",
+     "name": "Pregabalin",
+     "indication": "Nyeri neuropatik, gangguan cemas"
+    },
+    {
+     "id": "d213",
+     "name": "Lamotrigin",
+     "indication": "Epilepsi, bipolar"
+    },
+    {
+     "id": "d214",
+     "name": "Topiramat",
+     "indication": "Epilepsi, profilaksis migrain"
+    },
+    {
+     "id": "d215",
+     "name": "Levodopa-karbidopa",
+     "indication": "Parkinson"
+    },
+    {
+     "id": "d216",
+     "name": "Pramipeksol",
+     "indication": "Parkinson"
+    },
+    {
+     "id": "d217",
+     "name": "Sumatriptan",
+     "indication": "Migrain akut"
+    }
+   ]
+  },
+  {
+   "id": "c09",
+   "name": "Mata, Kulit & THT",
+   "drugs": [
+    {
+     "id": "d218",
+     "name": "Timolol",
+     "indication": "Glaukoma"
+    },
+    {
+     "id": "d219",
+     "name": "Tobramisin",
+     "indication": "Infeksi mata bakteri"
+    },
+    {
+     "id": "d220",
+     "name": "Hidrokortison krim",
+     "indication": "Eksim, dermatitis"
+    },
+    {
+     "id": "d221",
+     "name": "Asam salisilat",
+     "indication": "Jerawat, kutil"
+    },
+    {
+     "id": "d222",
+     "name": "Benzoil peroksida",
+     "indication": "Jerawat"
+    },
+    {
+     "id": "d223",
+     "name": "Permetrin",
+     "indication": "Skabies, kutu rambut"
+    },
+    {
+     "id": "d224",
+     "name": "Oksimetazolin",
+     "indication": "Hidung tersumbat"
+    },
+    {
+     "id": "d225",
+     "name": "Klorheksidin",
+     "indication": "Antiseptik kulit & mulut"
+    },
+    {
+     "id": "d226",
+     "name": "Povidon iodin",
+     "indication": "Antiseptik luka"
+    },
+    {
+     "id": "d227",
+     "name": "Lidokain",
+     "indication": "Anestesi lokal"
+    },
+    {
+     "id": "d228",
+     "name": "Latanoprost",
+     "indication": "Glaukoma"
+    },
+    {
+     "id": "d229",
+     "name": "Pilokarpin",
+     "indication": "Glaukoma"
+    },
+    {
+     "id": "d230",
+     "name": "Tetrasiklin (salep mata)",
+     "indication": "Infeksi mata bakteri"
+    },
+    {
+     "id": "d231",
+     "name": "Klotrimazol",
+     "indication": "Jamur kulit"
+    },
+    {
+     "id": "d232",
+     "name": "Mupirosin",
+     "indication": "Impetigo"
+    },
+    {
+     "id": "d233",
+     "name": "Asam fusidat",
+     "indication": "Infeksi kulit bakteri"
+    },
+    {
+     "id": "d234",
+     "name": "Tretinoin",
+     "indication": "Jerawat"
+    },
+    {
+     "id": "d235",
+     "name": "Adapalen",
+     "indication": "Jerawat"
+    },
+    {
+     "id": "d236",
+     "name": "Natrium kromoglikat",
+     "indication": "Alergi mata"
+    },
+    {
+     "id": "d237",
+     "name": "Olopatadin",
+     "indication": "Alergi mata"
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "name": "Vitamin, Suplemen & Lainnya",
+   "drugs": [
+    {
+     "id": "d238",
+     "name": "Vitamin C",
+     "indication": "Defisiensi vitamin C, antioksidan"
+    },
+    {
+     "id": "d239",
+     "name": "Vitamin D",
+     "indication": "Defisiensi vitamin D, kesehatan tulang"
+    },
+    {
+     "id": "d240",
+     "name": "Vitamin B kompleks",
+     "indication": "Defisiensi vitamin B, neuropati"
+    },
+    {
+     "id": "d241",
+     "name": "Zat besi",
+     "indication": "Anemia defisiensi besi"
+    },
+    {
+     "id": "d242",
+     "name": "Asam folat",
+     "indication": "Anemia megaloblastik, pencegahan cacat tabung saraf"
+    },
+    {
+     "id": "d243",
+     "name": "Kalsium karbonat",
+     "indication": "Suplementasi kalsium, antasida"
+    },
+    {
+     "id": "d244",
+     "name": "Zinc",
+     "indication": "Diare pada anak, defisiensi zinc"
+    },
+    {
+     "id": "d245",
+     "name": "Alopurinol",
+     "indication": "Gout, hiperurisemia"
+    },
+    {
+     "id": "d246",
+     "name": "Kolkhisin",
+     "indication": "Serangan gout akut"
+    },
+    {
+     "id": "d247",
+     "name": "Montelukast",
+     "indication": "Asma, rinitis alergi"
+    },
+    {
+     "id": "d248",
+     "name": "Vitamin A",
+     "indication": "Defisiensi vitamin A, kesehatan mata"
+    },
+    {
+     "id": "d249",
+     "name": "Vitamin E",
+     "indication": "Antioksidan"
+    },
+    {
+     "id": "d250",
+     "name": "Vitamin K",
+     "indication": "Perdarahan, overdosis warfarin"
+    },
+    {
+     "id": "d251",
+     "name": "Tiamin (B1)",
+     "indication": "Beri-beri"
+    },
+    {
+     "id": "d252",
+     "name": "Piridoksin (B6)",
+     "indication": "Neuropati, mual pada kehamilan"
+    },
+    {
+     "id": "d253",
+     "name": "Sianokobalamin (B12)",
+     "indication": "Anemia pernisiosa"
+    },
+    {
+     "id": "d254",
+     "name": "Magnesium sulfat",
+     "indication": "Defisiensi magnesium, preeklampsia"
+    },
+    {
+     "id": "d255",
+     "name": "Kalium klorida",
+     "indication": "Hipokalemia"
+    },
+    {
+     "id": "d256",
+     "name": "Natrium klorida",
+     "indication": "Rehidrasi, cairan infus"
+    },
+    {
+     "id": "d257",
+     "name": "Orlistat",
+     "indication": "Obesitas"
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "name": "Urologi & Reproduksi",
+   "drugs": [
+    {
+     "id": "d258",
+     "name": "Tamsulosin",
+     "indication": "BPH"
+    },
+    {
+     "id": "d259",
+     "name": "Finasterid",
+     "indication": "BPH, alopesia androgenik"
+    },
+    {
+     "id": "d260",
+     "name": "Dutasterid",
+     "indication": "BPH"
+    },
+    {
+     "id": "d261",
+     "name": "Sildenafil",
+     "indication": "Disfungsi ereksi, hipertensi pulmonal"
+    },
+    {
+     "id": "d262",
+     "name": "Tadalafil",
+     "indication": "Disfungsi ereksi, BPH"
+    },
+    {
+     "id": "d263",
+     "name": "Oksibutinin",
+     "indication": "Kandung kemih overaktif"
+    },
+    {
+     "id": "d264",
+     "name": "Tolterodin",
+     "indication": "Kandung kemih overaktif"
+    },
+    {
+     "id": "d265",
+     "name": "Etinilestradiol + levonorgestrel",
+     "indication": "Kontrasepsi"
+    },
+    {
+     "id": "d266",
+     "name": "Levonorgestrel",
+     "indication": "Kontrasepsi darurat"
+    },
+    {
+     "id": "d267",
+     "name": "Klomifen",
+     "indication": "Induksi ovulasi"
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "name": "Onkologi & Imunologi",
+   "drugs": [
+    {
+     "id": "d268",
+     "name": "Metotreksat",
+     "indication": "Kanker, rheumatoid arthritis, psoriasis"
+    },
+    {
+     "id": "d269",
+     "name": "Siklofosfamid",
+     "indication": "Kanker, penyakit autoimun"
+    },
+    {
+     "id": "d270",
+     "name": "Fluorourasil",
+     "indication": "Kanker kolorektal, kanker kulit"
+    },
+    {
+     "id": "d271",
+     "name": "Doksorubisin",
+     "indication": "Kanker (kemoterapi)"
+    },
+    {
+     "id": "d272",
+     "name": "Sisplatin",
+     "indication": "Kanker"
+    },
+    {
+     "id": "d273",
+     "name": "Tamoksifen",
+     "indication": "Kanker payudara"
+    },
+    {
+     "id": "d274",
+     "name": "Siklosporin",
+     "indication": "Imunosupresan transplantasi"
+    },
+    {
+     "id": "d275",
+     "name": "Azatioprin",
+     "indication": "Imunosupresan, autoimun"
+    },
+    {
+     "id": "d276",
+     "name": "Takrolimus",
+     "indication": "Imunosupresan transplantasi"
+    },
+    {
+     "id": "d277",
+     "name": "Filgrastim",
+     "indication": "Neutropenia pasca-kemoterapi"
+    }
+   ]
+  },
+  {
+   "id": "c13",
+   "name": "Anestesi & Emergensi",
+   "drugs": [
+    {
+     "id": "d278",
+     "name": "Propofol",
+     "indication": "Induksi & pemeliharaan anestesi"
+    },
+    {
+     "id": "d279",
+     "name": "Ketamin",
+     "indication": "Anestesi, analgesia"
+    },
+    {
+     "id": "d280",
+     "name": "Sevofluran",
+     "indication": "Anestesi inhalasi"
+    },
+    {
+     "id": "d281",
+     "name": "Atropin",
+     "indication": "Bradikardia, antidot organofosfat"
+    },
+    {
+     "id": "d282",
+     "name": "Noradrenalin",
+     "indication": "Syok, hipotensi"
+    },
+    {
+     "id": "d283",
+     "name": "Flumazenil",
+     "indication": "Antidot benzodiazepin"
+    },
+    {
+     "id": "d284",
+     "name": "Arang aktif",
+     "indication": "Keracunan oral"
+    },
+    {
+     "id": "d285",
+     "name": "Glukagon",
+     "indication": "Hipoglikemia berat"
+    },
+    {
+     "id": "d286",
+     "name": "Kalsium glukonat",
+     "indication": "Hipokalsemia, hiperkalemia"
+    },
+    {
+     "id": "d287",
+     "name": "Natrium bikarbonat",
+     "indication": "Asidosis metabolik"
+    }
+   ]
+  },
+  {
+   "id": "c14",
+   "name": "Antituberkulosis & Antimikroba Tambahan",
+   "drugs": [
+    {
+     "id": "d288",
+     "name": "Isoniazid",
+     "indication": "Tuberkulosis"
+    },
+    {
+     "id": "d289",
+     "name": "Rifampisin",
+     "indication": "Tuberkulosis"
+    },
+    {
+     "id": "d290",
+     "name": "Pirazinamid",
+     "indication": "Tuberkulosis"
+    },
+    {
+     "id": "d291",
+     "name": "Etambutol",
+     "indication": "Tuberkulosis"
+    },
+    {
+     "id": "d292",
+     "name": "Streptomisin",
+     "indication": "Tuberkulosis"
+    },
+    {
+     "id": "d293",
+     "name": "Dapson",
+     "indication": "Lepra"
+    },
+    {
+     "id": "d294",
+     "name": "Klofazimin",
+     "indication": "Lepra"
+    },
+    {
+     "id": "d295",
+     "name": "Zanamivir",
+     "indication": "Influenza"
+    },
+    {
+     "id": "d296",
+     "name": "Ribavirin",
+     "indication": "Hepatitis C, RSV"
+    },
+    {
+     "id": "d297",
+     "name": "Moksifloksasin",
+     "indication": "Pneumonia, infeksi mata"
+    },
+    {
+     "id": "d298",
+     "name": "Daptomisin",
+     "indication": "Infeksi kulit MRSA"
+    },
+    {
+     "id": "d299",
+     "name": "Kolistin",
+     "indication": "Infeksi gram-negatif multi-resisten"
+    }
+   ]
+  },
+  {
+   "id": "c15",
+   "name": "Endokrin & Metabolik",
+   "drugs": [
+    {
+     "id": "d300",
+     "name": "Desmopresin",
+     "indication": "Diabetes insipidus, enuresis"
+    },
+    {
+     "id": "d301",
+     "name": "Oktreotid",
+     "indication": "Akromegali"
+    },
+    {
+     "id": "d302",
+     "name": "Bromokriptin",
+     "indication": "Hiperprolaktinemia, Parkinson"
+    },
+    {
+     "id": "d303",
+     "name": "Kabergolin",
+     "indication": "Hiperprolaktinemia"
+    },
+    {
+     "id": "d304",
+     "name": "Kalsitonin",
+     "indication": "Osteoporosis, hiperkalsemia"
+    },
+    {
+     "id": "d305",
+     "name": "Alendronat",
+     "indication": "Osteoporosis"
+    },
+    {
+     "id": "d306",
+     "name": "Risedronat",
+     "indication": "Osteoporosis"
+    },
+    {
+     "id": "d307",
+     "name": "Kalsitriol",
+     "indication": "Hipokalsemia, CKD"
+    },
+    {
+     "id": "d308",
+     "name": "Sevelamer",
+     "indication": "Hiperfosfatemia pada CKD"
+    },
+    {
+     "id": "d309",
+     "name": "Teriparatid",
+     "indication": "Osteoporosis"
+    }
+   ]
+  },
+  {
+   "id": "c16",
+   "name": "Gastrointestinal & Hati Tambahan",
+   "drugs": [
+    {
+     "id": "d310",
+     "name": "Ursodiol",
+     "indication": "Batu empedu, kolestasis"
+    },
+    {
+     "id": "d311",
+     "name": "Rifaksimin",
+     "indication": "Ensefalopati hepatik, diare pelancong"
+    },
+    {
+     "id": "d312",
+     "name": "Racekadotril",
+     "indication": "Diare akut"
+    },
+    {
+     "id": "d313",
+     "name": "Diosmektit",
+     "indication": "Diare"
+    },
+    {
+     "id": "d314",
+     "name": "Attapulgit",
+     "indication": "Diare"
+    },
+    {
+     "id": "d315",
+     "name": "Pinaverium",
+     "indication": "IBS"
+    },
+    {
+     "id": "d316",
+     "name": "Trimebutin",
+     "indication": "Gangguan motilitas GI"
+    },
+    {
+     "id": "d317",
+     "name": "Itoprid",
+     "indication": "Dispepsia fungsional"
+    }
+   ]
+  },
+  {
+   "id": "c17",
+   "name": "Antiparkinson & Demensia",
+   "drugs": [
+    {
+     "id": "d318",
+     "name": "Selegilin",
+     "indication": "Parkinson"
+    },
+    {
+     "id": "d319",
+     "name": "Rasagilin",
+     "indication": "Parkinson"
+    },
+    {
+     "id": "d320",
+     "name": "Entakapon",
+     "indication": "Parkinson"
+    },
+    {
+     "id": "d321",
+     "name": "Amantadin",
+     "indication": "Parkinson, influenza A"
+    },
+    {
+     "id": "d322",
+     "name": "Donepezil",
+     "indication": "Alzheimer"
+    },
+    {
+     "id": "d323",
+     "name": "Rivastigmin",
+     "indication": "Alzheimer"
+    },
+    {
+     "id": "d324",
+     "name": "Memantin",
+     "indication": "Alzheimer"
+    },
+    {
+     "id": "d325",
+     "name": "Galantamin",
+     "indication": "Alzheimer"
+    }
+   ]
+  },
+  {
+   "id": "c18",
+   "name": "Psikiatri Tambahan",
+   "drugs": [
+    {
+     "id": "d326",
+     "name": "Klomipramin",
+     "indication": "OCD, depresi"
+    },
+    {
+     "id": "d327",
+     "name": "Imipramin",
+     "indication": "Depresi, enuresis"
+    },
+    {
+     "id": "d328",
+     "name": "Nortriptilin",
+     "indication": "Depresi, nyeri neuropatik"
+    },
+    {
+     "id": "d329",
+     "name": "Duloksetin",
+     "indication": "Depresi, nyeri neuropatik, cemas"
+    },
+    {
+     "id": "d330",
+     "name": "Bupropion",
+     "indication": "Depresi, berhenti merokok"
+    },
+    {
+     "id": "d331",
+     "name": "Trazodon",
+     "indication": "Depresi, insomnia"
+    },
+    {
+     "id": "d332",
+     "name": "Eszopiklon",
+     "indication": "Insomnia"
+    },
+    {
+     "id": "d333",
+     "name": "Klozapin",
+     "indication": "Skizofrenia resisten"
+    }
+   ]
+  },
+  {
+   "id": "c19",
+   "name": "Kardiovaskular Tambahan",
+   "drugs": [
+    {
+     "id": "d334",
+     "name": "Flekainid",
+     "indication": "Aritmia"
+    },
+    {
+     "id": "d335",
+     "name": "Propafenon",
+     "indication": "Aritmia"
+    },
+    {
+     "id": "d336",
+     "name": "Sotalol",
+     "indication": "Aritmia"
+    },
+    {
+     "id": "d337",
+     "name": "Nikardipin",
+     "indication": "Hipertensi akut"
+    },
+    {
+     "id": "d338",
+     "name": "Klonidin",
+     "indication": "Hipertensi, ADHD"
+    },
+    {
+     "id": "d339",
+     "name": "Metildopa",
+     "indication": "Hipertensi pada kehamilan"
+    },
+    {
+     "id": "d340",
+     "name": "Eplerenon",
+     "indication": "Gagal jantung, pasca-infark"
+    },
+    {
+     "id": "d341",
+     "name": "Sakubitril-valsartan",
+     "indication": "Gagal jantung"
+    },
+    {
+     "id": "d342",
+     "name": "Ivabradin",
+     "indication": "Gagal jantung, angina"
+    },
+    {
+     "id": "d343",
+     "name": "Ranolazin",
+     "indication": "Angina kronik"
+    },
+    {
+     "id": "d344",
+     "name": "Pentoksifilin",
+     "indication": "Klaudikasio intermiten"
+    },
+    {
+     "id": "d345",
+     "name": "Silostazol",
+     "indication": "Klaudikasio intermiten"
+    }
+   ]
+  },
+  {
+   "id": "c20",
+   "name": "Lain-lain",
+   "drugs": [
+    {
+     "id": "d346",
+     "name": "Naltrekson",
+     "indication": "Adiksi alkohol & opioid"
+    },
+    {
+     "id": "d347",
+     "name": "Disulfiram",
+     "indication": "Adiksi alkohol"
+    },
+    {
+     "id": "d348",
+     "name": "Vareniklin",
+     "indication": "Berhenti merokok"
+    },
+    {
+     "id": "d349",
+     "name": "Metadon",
+     "indication": "Nyeri berat, terapi adiksi opioid"
+    },
+    {
+     "id": "d350",
+     "name": "Dinoproston",
+     "indication": "Induksi persalinan"
+    },
+    {
+     "id": "d351",
+     "name": "Magnesium hidroksida",
+     "indication": "Antasida, laksatif"
+    },
+    {
+     "id": "d352",
+     "name": "Bismut subsalisilat",
+     "indication": "Diare, dispepsia"
+    },
+    {
+     "id": "d353",
+     "name": "Orfenadrin",
+     "indication": "Spasme otot"
+    },
+    {
+     "id": "d354",
+     "name": "Siklobenzaprin",
+     "indication": "Spasme otot"
+    },
+    {
+     "id": "d355",
+     "name": "Ergotamin",
+     "indication": "Migrain"
+    }
+   ]
+  }
+ ]
+}
